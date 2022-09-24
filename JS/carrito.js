@@ -11,7 +11,7 @@ $(document).ready(function () {
                               <h2 id="montoTotalCompra">${montoTotalCompra}</h2>
                               </div>
                               <div> 
-                              <h3>Cantidad de productos:</h3> 
+                              <h2>Cantidad de productos:</h2> 
                               <h3 id="cantidadTotalCompra">${cantidadTotalCompra}</h3>
                               </div>
                               <button class="boton" id="btn-finalizar">Finalizar compra</button>`);
